@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on some Project
+- 🔭 I’m currently working on some Projects
 - 🌱 I’m currently learning a a lot of things
 - 👯 I’m looking to collaborate on Java and Python open source Projects
 - 🤔 I’m looking for help with Spring/Spring boot
