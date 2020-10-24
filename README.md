@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Jokes
 
+
 ![GitHub Follow](https://img.shields.io/github/followers/odkane.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/odkane?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 
 📫 How to reach me:
+
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/Odkane) 
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:yao.aziamoe@gmail.com)
 
